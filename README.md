@@ -1,6 +1,7 @@
 # Webpack-Master-Config-Dev-Prod    
 
-### The Project Builds Master File System
+### The Project Builds 
+
 --> Dist Build
 
 --> Config.js
